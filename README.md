@@ -18,9 +18,13 @@ npm install
 
 node server.js
 
-**admin credentials**
+
+## **admin credentials**
+
 admin email : yash@gmail.com
+
 abmin password : Yash
+
 
 ## ✨ **Features**
 
