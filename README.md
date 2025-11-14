@@ -30,12 +30,15 @@ abmin password : Yash
 
 ## **Customer Storefront**
 
+User Login (JWT protected)
 
 Product detail page
 
 Cart system (add/update/remove items)
 
 Order success screen with order ID
+
+Address Page 
 
 
 ## **Admin Portal**
@@ -61,6 +64,8 @@ React Router
 Context API
 
 Tailwind
+
+Prebuilt UI 
 
 ## **Backend**
 
