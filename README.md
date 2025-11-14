@@ -1,6 +1,6 @@
 ## Git Instructions 
 
-git clone https://github.com/Yash-Ghatge/Retailshop/edit/main/README.md
+git clone https://github.com/Yash-Ghatge/Retailshop
 
 cd Retailshop
 
