@@ -1,53 +1,15 @@
-Overview
+## **Git Instructions **  
 
-The Retail Shop Website is a full-stack web application that allows customers to browse products, add items to their cart, and place orders.
-An Admin Portal is included for managing products, orders, and stock.
+git clone https://github.com/Yash-Ghatge/Retailshop/edit/main/README.md
+cd Retailshop
 
-Customer Storefront
+##  ** Frontend **  
+cd client
+npm run dev
 
-Product details page
+## **Backend**  
+cd server
+node server.js
 
-Add/update/remove items from cart
+## ✨ **Features**
 
-Order success screen with Order ID
-
-Admin Portal
-
-Admin login (protected routes)
-
-Add products
-
-Activate/Deactivate products
-
-Image upload
-
-Order Management:
-
-View all orders
-
-View customer info
-
-Tech Stack
-Frontend
-
-React.js
-
-React Router
-
-Context API / Hooks
-
-Tailwind
-
-Backend
-
-Node.js
-
-Express.js
-
-JWT Authentication
-
-Multer (for images)
-
-Database
-
-MongoDB / MySQL / PostgreSQL (any one)
