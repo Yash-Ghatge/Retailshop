@@ -28,7 +28,8 @@ abmin password : Yash
 
 ## ✨ **Features**
 
-**Customer Storefront**
+## **Customer Storefront**
+
 
 Product detail page
 
@@ -36,7 +37,8 @@ Cart system (add/update/remove items)
 
 Order success screen with order ID
 
-**Admin Portal**
+
+## **Admin Portal**
 
 Admin login (JWT protected)
 
@@ -48,9 +50,9 @@ Customer information in order details
 
 Update stocks
 
-**Tech Stack**
+## **Tech Stack**
 
-**Frontend**
+## **Frontend**
 
 React.js
 
@@ -60,7 +62,7 @@ Context API
 
 Tailwind
 
-**Backend**
+## **Backend**
 
 Node.js
 
@@ -70,6 +72,6 @@ JWT Authentication
 
 Multer (for image upload)
 
-**Database**
+## **Database**
 
 MongoDB
