@@ -1,13 +1,13 @@
-## **Git Instructions **  
+## Git Instructions 
 
 git clone https://github.com/Yash-Ghatge/Retailshop/edit/main/README.md
 cd Retailshop
 
-##  ** Frontend **  
+##  Frontend   
 cd client
 npm run dev
 
-## **Backend**  
+## Backend  
 cd server
 node server.js
 
